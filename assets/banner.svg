@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628">
+  <rect width="1200" height="628" fill="#f4f8ff"/>
+  <!-- decorative circles -->
+  <circle cx="1050" cy="90" r="140" fill="#e3edff"/>
+  <circle cx="120" cy="540" r="110" fill="#e3edff"/>
+  <!-- browser window -->
+  <rect x="300" y="110" width="600" height="408" rx="16" fill="#ffffff" stroke="#dfe1e5" stroke-width="2"/>
+  <rect x="300" y="110" width="600" height="48" rx="16" fill="#eef3fd"/>
+  <circle cx="332" cy="134" r="7" fill="#ea4335"/>
+  <circle cx="354" cy="134" r="7" fill="#fbbc04"/>
+  <circle cx="376" cy="134" r="7" fill="#34a853"/>
+  <rect x="420" y="122" width="360" height="24" rx="12" fill="#ffffff" stroke="#dfe1e5"/>
+  <!-- tool icon 1: document -->
+  <rect x="340" y="196" width="140" height="120" rx="12" fill="#f7faff" stroke="#1a73e8" stroke-width="3"/>
+  <rect x="362" y="222" width="96" height="10" rx="5" fill="#1a73e8" opacity="0.85"/>
+  <rect x="362" y="246" width="96" height="10" rx="5" fill="#8ab4f8"/>
+  <rect x="362" y="270" width="64" height="10" rx="5" fill="#8ab4f8"/>
+  <!-- tool icon 2: image -->
+  <rect x="530" y="196" width="140" height="120" rx="12" fill="#f7faff" stroke="#1a73e8" stroke-width="3"/>
+  <circle cx="566" cy="230" r="12" fill="#fbbc04"/>
+  <polyline points="546,300 578,258 602,282 624,262 654,300" fill="none" stroke="#1a73e8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- tool icon 3: text/convert arrows -->
+  <rect x="720" y="196" width="140" height="120" rx="12" fill="#f7faff" stroke="#1a73e8" stroke-width="3"/>
+  <text x="752" y="262" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#1a73e8">Aa</text>
+  <path d="M 796 244 h 34 m -8 -8 l 8 8 l -8 8" stroke="#8ab4f8" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- progress bar / action row -->
+  <rect x="340" y="360" width="520" height="14" rx="7" fill="#e8f0fe"/>
+  <rect x="340" y="360" width="300" height="14" rx="7" fill="#1a73e8"/>
+  <rect x="340" y="400" width="180" height="44" rx="22" fill="#1a73e8"/>
+  <circle cx="372" cy="422" r="10" fill="#ffffff"/>
+  <path d="M 368 422 l 3 3 l 6 -6" stroke="#1a73e8" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="540" y="400" width="120" height="44" rx="22" fill="#ffffff" stroke="#1a73e8" stroke-width="2"/>
+</svg>
